@@ -1,0 +1,39 @@
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\bin\Debug\OOO Obuv.exe.config
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\bin\Debug\OOO Obuv.exe
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\bin\Debug\OOO Obuv.pdb
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\bin\Debug\EntityFramework.dll
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\bin\Debug\EntityFramework.xml
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO Obuv.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO Obuv.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO_Obuv.FormTemplate.resources
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO_Obuv.Properties.Resources.resources
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO Obuv.csproj.GenerateResource.cache
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO Obuv.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO Obuv.csproj.CopyComplete
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO Obuv.exe
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO Obuv.pdb
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO_Obuv.FormAuthorization.resources
+C:\Users\1\Downloads\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO_Obuv.Form1.resources
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\bin\Debug\OOO Obuv.exe.config
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\bin\Debug\OOO Obuv.exe
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\bin\Debug\OOO Obuv.pdb
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\bin\Debug\EntityFramework.dll
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\bin\Debug\EntityFramework.xml
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO Obuv.csproj.AssemblyReference.cache
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO Obuv.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO_Obuv.FormTemplate.resources
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO_Obuv.Properties.Resources.resources
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO_Obuv.Form1.resources
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO_Obuv.FormAuthorization.resources
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO Obuv.csproj.GenerateResource.cache
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO Obuv.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO Obuv.csproj.CopyComplete
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO Obuv.exe
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO Obuv.pdb
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO_Obuv.FormCatalogue.resources
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO_Obuv.FormChangeProduct.resources
+C:\Users\1\Documents\CSharp\Тренировка 2\OOO Obuv\OOO Obuv\obj\Debug\OOO_Obuv.FormOrder.resources
